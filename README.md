@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sravanrocks82
 - 👀 I’m interested in front end developing and python with Sql ...
 - 🌱 I’m currently learning MY SQL
-- 💞️ I’m looking to collaborate on Front end developing
+- 💞️ I’m looking to collaborate on backend end developing
 - 📫 How to reach me sravangokivada@gmail.com
 
 <!---
